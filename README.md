@@ -7,6 +7,8 @@
 	<img src="https://i.imgur.com/7hVUKWZ.png">
 </p>
 
+# CHANGELOGS
+
 ```
 masterpiec3+ menu -- v1.4 [NOT RELEASED YET]
 
