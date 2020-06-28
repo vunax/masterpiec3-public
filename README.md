@@ -12,12 +12,12 @@
 
 **masterpiec3+ menu -- v1.4 [NOT RELEASED YET]**
 
-- [] flash
-- [] troll options
-- [] optimize
-- [] modify vehicle
-- [] resources
-- [] esx skinchanger
+- [ ] flash
+- [ ] troll options
+- [ ] optimize
+- [ ] modify vehicle
+- [ ] resources
+- [ ] esx skinchanger
 
 
 # CHANGELOGS
