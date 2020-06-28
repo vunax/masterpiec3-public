@@ -1,0 +1,70 @@
+v1.4
+
+to do:
+
+flash
+troll options
+optimize
+modify vehicle
+resources
+esx skinchanger
+
+v1.3
+
+fixed explode all players not including self - done
+reorganized some options - done
+changed minor stuff - done
+added fake chat message - done
+added airstrike waypoint - done
+removed unused functions - done
+removed esx heal closest player - done
+removed esx revive closest player - done
+removed normal crash player - done
+removed admin options - done
+
+v1.2
+
+changed minor stuff - done
+changed bank deposit and bank withdraw to vrp options - done
+added vrp get driver licence - done
+added esx get driver licence - done
+added esx heal closest players - done
+added esx revive closest player - done
+added esx money methods - done
+removed gc_phone crasher - done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+local thing = [[
+-- Put script here
+]]
+
+
+local encoded = thing:gsub(".", function(bb) return "\\" .. bb:byte() end) or thing .. "\""
+
+print(encoded)
+print("Put the above encoded string into the loadstring below between the quotation marks for the obfuscated scrippts.")
+print'loadstring("")()'
