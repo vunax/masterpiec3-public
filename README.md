@@ -7,6 +7,7 @@
 	<img src="https://i.imgur.com/7hVUKWZ.png">
 </p>
 
+<p align="center">
 # CHANGELOGS
 
 ```
@@ -51,4 +52,4 @@ added esx revive closest player - done
 added esx money methods - done
 removed gc_phone crasher - done
 ```
-
+</p>
