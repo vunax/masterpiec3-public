@@ -8,9 +8,7 @@
 </p>
 
 ```
-v1.4
-
-to do:
+masterpiec3+ menu -- v1.4 [NOT RELEASED YET]
 
 flash
 troll options
@@ -21,7 +19,9 @@ esx skinchanger
 ```
 
 ```
-v1.3
+masterpiec3+ menu -- v1.3
+
+changelog:
 
 fixed explode all players not including self - done
 reorganized some options - done
@@ -36,7 +36,9 @@ removed admin options - done
 ```
 
 ```
-v1.2
+masterpiec3+ menu -- v1.2
+
+changelog:
 
 changed minor stuff - done
 changed bank deposit and bank withdraw to vrp options - done
