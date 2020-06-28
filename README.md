@@ -1,3 +1,4 @@
+# MASTERPIEC3+
 
 <p align="center">
 	<img src="https://i.postimg.cc/prz11dzH/m3.png">
@@ -7,12 +8,10 @@
 	<img src="https://i.imgur.com/7hVUKWZ.png">
 </p>
 
-<p align="center">
 # CHANGELOGS
 
+**masterpiec3+ menu -- v1.4 [NOT RELEASED YET]**
 ```
-masterpiec3+ menu -- v1.4 [NOT RELEASED YET]
-
 flash
 troll options
 optimize
@@ -21,9 +20,8 @@ resources
 esx skinchanger
 ```
 
+**masterpiec3+ menu -- v1.3**
 ```
-masterpiec3+ menu -- v1.3
-
 changelog:
 
 fixed explode all players not including self - done
@@ -38,9 +36,8 @@ removed normal crash player - done
 removed admin options - done
 ```
 
+**masterpiec3+ menu -- v1.2**
 ```
-masterpiec3+ menu -- v1.2
-
 changelog:
 
 changed minor stuff - done
@@ -52,4 +49,10 @@ added esx revive closest player - done
 added esx money methods - done
 removed gc_phone crasher - done
 ```
-</p>
+
+# CONTACT INFORMATION
+- My Discord is **lenda#2964** if u wanna ask something. ✌️
+
+- Email: masterpiec3plus@gmail.com
+
+- **MasterPiec3+ FiveM Menu created by legend aka vunax | SPECIAL THANKS TO FISIC**
