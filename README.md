@@ -11,16 +11,16 @@
 # TO DO NEXT VERSION
 
 **masterpiec3+ menu -- v1.4 [NOT RELEASED YET]**
-<p align="center">
+
 - [ ] flash
 - [ ] troll options
 - [ ] optimize
 - [ ] modify vehicle
 - [ ] resources
 - [ ] esx skinchanger
-</p>
+
 # CHANGELOGS
-<p align="center">
+
 **masterpiec3+ menu -- v1.2** | **masterpiec3+ menu -- v1.3**
 ------------ | -------------
 changed minor stuff | fixed explode all players not including self
@@ -31,8 +31,8 @@ added esx heal closest players | added airstrike waypoint
 added esx revive closest player | removed unused functions
 added esx money methods | removed esx heal closest player
 removed gc_phone crasher | removed normal crash player
- | removed admin options
-</p>
+-| removed admin options
+
 # CONTACT INFORMATION
 - My Discord is **lenda#2964** if u wanna ask something. ✌️
 
