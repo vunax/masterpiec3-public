@@ -1,11 +1,11 @@
 
 <p align="center">
-	# MasterPiec3+
-	
 	<img src="https://i.postimg.cc/prz11dzH/m3.png">
-	
-	<img src="https://i.imgur.com/7hVUKWZ.png">
+</p>
 
+<p align="center">
+	<img src="https://i.imgur.com/7hVUKWZ.png">
+</p>
 
 ```
 v1.4
@@ -47,4 +47,4 @@ added esx revive closest player - done
 added esx money methods - done
 removed gc_phone crasher - done
 ```
-</p>
+
