@@ -18,7 +18,7 @@
 - [ ] modify vehicle (LS CUSTOMS)
 - [ ] v̶i̶e̶w̶ ̶s̶e̶r̶v̶e̶r̶ ̶r̶e̶s̶o̶u̶r̶c̶e̶s̶
 - [ ] e̶s̶x̶ ̶s̶k̶i̶n̶c̶h̶a̶n̶g̶e̶r̶
-- [ ] rcbandito controller
+- [x] remote vehicle controller
 
 # CHANGELOGS
 
