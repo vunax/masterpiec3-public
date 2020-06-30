@@ -12,12 +12,12 @@
 
 **masterpiec3+ menu -- v1.4 [NOT RELEASED YET]**
 
-- [ ] flash
+- [ ] f̶l̶a̶s̶h̶
 - [ ] remove some not working troll options
 - [ ] optimize the menu
 - [ ] modify vehicle (LS CUSTOMS)
-- [ ] view server resources
-- [ ] esx skinchanger
+- [ ] v̶i̶e̶w̶ ̶s̶e̶r̶v̶e̶r̶ ̶r̶e̶s̶o̶u̶r̶c̶e̶s̶
+- [ ] e̶s̶x̶ ̶s̶k̶i̶n̶c̶h̶a̶n̶g̶e̶r̶
 - [ ] rcbandito controller
 
 # CHANGELOGS
