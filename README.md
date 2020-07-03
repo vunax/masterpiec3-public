@@ -6,6 +6,7 @@
 
 <p align="center">
 	<img src="https://i.imgur.com/7hVUKWZ.png">
+	menu based on tiago4.2 mod menu
 </p>
 
 # TO DO NEXT VERSION
