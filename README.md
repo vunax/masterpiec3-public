@@ -14,7 +14,7 @@
 
 # TO DO NEXT VERSION
 
-**masterpiec3+ menu -- v1.4 [NOT RELEASED YET]**
+######masterpiec3+ menu -- v1.4 [NOT RELEASED YET]
 
 - [ ] f̶l̶a̶s̶h̶
 - [ ] remove some not working troll options
