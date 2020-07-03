@@ -8,7 +8,8 @@
 	<img src="https://i.imgur.com/7hVUKWZ.png">
 </p>
 <p align="center">
-	- masterpiec3+ based of tiago4.2 mod menu*
+	𝗺𝗮𝘀𝘁𝗲𝗿𝗽𝗶𝗲𝗰𝟯+ 𝗯𝗮𝘀𝗲𝗱 𝗼𝗳 𝘁𝗶𝗮𝗴𝗼𝟰.𝟮 𝗺𝗼𝗱 𝗺𝗲𝗻𝘂	
+</p>
 
 
 # TO DO NEXT VERSION
