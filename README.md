@@ -20,7 +20,7 @@
 - [ ] e̶s̶x̶ ̶s̶k̶i̶n̶c̶h̶a̶n̶g̶e̶r̶
 - [x] vrp economy destroyer
 - [x] remote vehicle controller
-- [x] auto drive to waypoint
+- [x] auto drive options
 
 # CHANGELOGS
 
