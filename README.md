@@ -16,9 +16,9 @@
 
 **masterpiec3+ menu -- v1.4 [NOT RELEASED YET]**
 
-- [ ] remove some not working troll options
+- [x] remove some not working troll options
 - [ ] optimize the menu
-- [ ] removed spawn swat and lion on everyone till i get a fix
+- [x] removed spawn swat and lion on everyone till i get a fix
 - [x] ram player with a custom vehicle
 - [x] esx skinchanger
 - [x] vrp economy destroyer
