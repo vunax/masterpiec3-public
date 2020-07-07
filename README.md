@@ -18,8 +18,8 @@
 
 - [ ] remove some not working troll options
 - [ ] optimize the menu
+- [ ] removed spawn swat and lion on everyone till i get a fix
 - [x] ram player with a custom vehicle
-- [x] spawn npc stalkers
 - [x] esx skinchanger
 - [x] vrp economy destroyer
 - [x] remote vehicle controller
