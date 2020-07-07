@@ -21,10 +21,11 @@
 - [ ] optimize the menu
 - [ ] modify vehicle (LS CUSTOMS)
 - [ ] v̶i̶e̶w̶ ̶s̶e̶r̶v̶e̶r̶ ̶r̶e̶s̶o̶u̶r̶c̶e̶s̶
-- [ ] e̶s̶x̶ ̶s̶k̶i̶n̶c̶h̶a̶n̶g̶e̶r̶
+- [x] esx skinchanger
 - [x] vrp economy destroyer
 - [x] remote vehicle controller
 - [x] auto drive options
+- [x] give vehicle to selected player
 
 # CHANGELOGS
 
