@@ -16,11 +16,10 @@
 
 **masterpiec3+ menu -- v1.4 [NOT RELEASED YET]**
 
-- [ ] f̶l̶a̶s̶h̶
 - [ ] remove some not working troll options
 - [ ] optimize the menu
 - [ ] modify vehicle (LS CUSTOMS)
-- [ ] v̶i̶e̶w̶ ̶s̶e̶r̶v̶e̶r̶ ̶r̶e̶s̶o̶u̶r̶c̶e̶s̶
+- [x] spawn npc stalkers
 - [x] esx skinchanger
 - [x] vrp economy destroyer
 - [x] remote vehicle controller
