@@ -18,7 +18,7 @@
 
 - [ ] remove some not working troll options
 - [ ] optimize the menu
-- [ ] modify vehicle (LS CUSTOMS)
+- [x] ram player with a custom vehicle
 - [x] spawn npc stalkers
 - [x] esx skinchanger
 - [x] vrp economy destroyer
