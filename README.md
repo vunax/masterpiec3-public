@@ -28,9 +28,9 @@
 
 # CHANGELOGS
 
-**masterpiec3+ menu -- v1.2** | **masterpiec3+ menu -- v1.3**
------------- | -------------
-changed minor stuff | fixed explode all players not including self
+**masterpiec3+ menu -- v1.2** | **masterpiec3+ menu -- v1.3** | boas
+------------ | ------------- | boas
+changed minor stuff | fixed explode all players not including self | boas
 changed bank deposit and bank withdraw to vrp options | reorganized some options
 added vrp get driver licence | changed minor stuff
 added esx get driver licence | added fake chat message
