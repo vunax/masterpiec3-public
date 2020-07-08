@@ -48,7 +48,7 @@ added esx heal closest players | added airstrike waypoint
 added esx revive closest player | removed unused functions
 added esx money methods | removed esx heal closest player
 removed gc_phone crasher | removed normal crash player
-- | removed admin options
+-| removed admin options
 
 # CONTACT INFORMATION
 - My Discord is **lenda#2964** if u wanna ask something. ✌️
