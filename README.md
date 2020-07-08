@@ -14,31 +14,29 @@
 
 # TO DO NEXT VERSION
 
-**masterpiec3+ menu -- v1.4 [NOT RELEASED YET]**
+**masterpiec3+ menu -- v1.5 [NOT RELEASED YET]**
 
-- [x] remove some not working troll options
-- [ ] optimize the menu
-- [x] removed spawn swat and lion on everyone till i get a fix
-- [x] ram player with a custom vehicle
-- [x] esx skinchanger
-- [x] vrp economy destroyer
-- [x] remote vehicle controller
-- [x] auto drive options
-- [x] give vehicle to selected player
+- [ ] admin options
+- [ ] more troll options
+- [ ] more server options
+- [ ] ls customs
+- [ ] optmize menu
+- [ ] rework code
+- [ ] cleanup code
 
 # CHANGELOGS
 
 **masterpiec3+ menu -- v1.4** | **masterpiec3+ menu -- v1.5**
 ------------ | -------------
-fixed minor stuff |
-added ram player with custom vehicle |
-added give vehicle to selected player |
-added auto drive options |
-added remove vehicle controller |
-added vrp economy destroyer |
-added esx skinchanger |
-removed spawn swat and lion on everyone till i get a fix |
-removed some not working troll options |
+fixed minor stuff |- 
+added ram player with custom vehicle |- 
+added give vehicle to selected player |- 
+added auto drive options |- 
+added remove vehicle controller |- 
+added vrp economy destroyer |- 
+added esx skinchanger |- 
+removed spawn swat and lion on everyone till i get a fix |- 
+removed some not working troll options |- 
 
 **masterpiec3+ menu -- v1.2** | **masterpiec3+ menu -- v1.3**
 ------------ | -------------
@@ -50,7 +48,7 @@ added esx heal closest players | added airstrike waypoint
 added esx revive closest player | removed unused functions
 added esx money methods | removed esx heal closest player
 removed gc_phone crasher | removed normal crash player
--| removed admin options
+- | removed admin options
 
 # CONTACT INFORMATION
 - My Discord is **lenda#2964** if u wanna ask something. ✌️
