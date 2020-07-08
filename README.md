@@ -28,9 +28,21 @@
 
 # CHANGELOGS
 
-**masterpiec3+ menu -- v1.2** | **masterpiec3+ menu -- v1.3** | boas
------------- | ------------- | boas
-changed minor stuff | fixed explode all players not including self | boas
+**masterpiec3+ menu -- v1.4** | **masterpiec3+ menu -- v1.5**
+------------ | -------------
+fixed minor stuff |
+added ram player with custom vehicle |
+added give vehicle to selected player |
+added auto drive options |
+added remove vehicle controller |
+added vrp economy destroyer |
+added esx skinchanger |
+removed spawn swat and lion on everyone till i get a fix |
+removed some not working troll options |
+
+**masterpiec3+ menu -- v1.2** | **masterpiec3+ menu -- v1.3**
+------------ | -------------
+changed minor stuff | fixed explode all players not including self
 changed bank deposit and bank withdraw to vrp options | reorganized some options
 added vrp get driver licence | changed minor stuff
 added esx get driver licence | added fake chat message
