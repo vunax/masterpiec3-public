@@ -20,6 +20,7 @@
 - [ ] more troll options
 - [ ] more server options
 - [ ] ls customs
+- [ ] esx economy destroyer
 - [ ] optmize menu
 - [ ] rework code
 - [ ] cleanup code
