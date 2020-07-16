@@ -56,4 +56,4 @@ removed gc_phone crasher | removed normal crash player
 
 - Email: masterpiec3plus@gmail.com
 
-- **MasterPiec3+ FiveM Menu created by legend aka vunax | SPECIAL THANKS TO FISIC**
+- **MasterPiec3+ FiveM Mod Menu created by legend aka vunax | SPECIAL THANKS TO FISIC**
