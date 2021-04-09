@@ -52,7 +52,7 @@ removed gc_phone crasher | removed normal crash player
 -| removed admin options
 
 # CONTACT INFORMATION
-- My Discord is **lenda#2964** if u wanna ask something. ✌️
+- My Discord is **legend#9456** if u wanna ask something. ✌️
 
 - Email: masterpiec3plus@gmail.com
 
